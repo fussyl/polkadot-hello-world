@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@polkadot/api": "^2.2.1",
+    "es2015": "0.0.0"
+  }
+}
