@@ -6,3 +6,4 @@
 ## [INTERMEDIATE CHALLENGE FRAME Development]: Submission [here](https://github.com/fussyl/polkadot-hello-world/blob/main/FRAME-Development.md)
 ## [INTERMEDIATE CHALLENGE Forkless Upgrades]: Submission [here](https://github.com/fussyl/polkadot-hello-world/blob/main/Runtime%20Upgrade.png)
 ## [ECOSYSTEM CHALLENGE] Enable Multi-currency Support: Submission [code](https://github.com/fussyl/sub-node-orml) and [screenshot](https://github.com/fussyl/sub-node-orml/blob/master/orml-token%20custom%20currency%20transfer.png)
+## [ECOSYSTEM CHALLENGE Enable NFT Support]: Submission [here](https://github.com/fussyl/sub-node-orml)
