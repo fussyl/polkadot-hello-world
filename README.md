@@ -9,3 +9,5 @@
 ## [ECOSYSTEM CHALLENGE Enable NFT Support]: Submission [here](https://github.com/fussyl/sub-node-orml)
 ## [BEGINNER CHALLENGES Front-End Javascript]: Submission [here](https://github.com/fussyl/sub-frontend-template-custom)
 ## [Moonbeam Remix]: Submission new with address type `0xd9145CCE52D386f254917e481eB44e9943F39138` (old `0xFa15E772dF50c42a85ba5643a5dF81092EaEc1D3`)
+## [Moonbeam truffle] Submission [here](https://github.com/fussyl/polkadot-hello-world/blob/main/moonbeam-truffle.md)
+## [Ink smart contract] Submission [here](https://github.com/fussyl/polkadot-hello-world/blob/main/ink.md)
